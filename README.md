@@ -1,1 +1,1 @@
-Sample demo for hithub
+Sample demo for github
